@@ -1,8 +1,4 @@
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/e2cdb0e7-0a73-4894-ad30-b360446606e3" width="800" height="800"/>
-  
-</div>
+![home-logo](https://github.com/user-attachments/assets/37cc2d90-e523-458c-adc9-aae6fbee9276)
 <!--
 **eojm9388/eojm9388** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
