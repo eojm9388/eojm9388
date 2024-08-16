@@ -1,4 +1,8 @@
-![home-logo2](https://github.com/user-attachments/assets/e2cdb0e7-0a73-4894-ad30-b360446606e3)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e2cdb0e7-0a73-4894-ad30-b360446606e3" />
+  
+</div>
 <!--
 **eojm9388/eojm9388** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
